@@ -1,0 +1,11 @@
+# Ignore Docker’s own files
+Dockerfile
+.dockerignore
+
+# Ignore other local/dev files
+*.md
+.git
+.gitignore
+.coverage
+.coverage.*
+.aws
