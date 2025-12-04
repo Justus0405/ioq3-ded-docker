@@ -59,7 +59,7 @@ mkdir baseq3
 cp -r ~/.config/Quake3/baseq3/ ./
 ```
 
-5. Build an run with docker:
+5. Build and run with docker:
 
 ```shell
 docker-compose up -d --build
